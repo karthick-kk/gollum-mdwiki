@@ -1,0 +1,10 @@
+version: '3.2'
+services:
+  wiki:
+    env_file: .env
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - "./wiki/devops-docs:/root/wikidata"
+      - "./ssh_dir:/root/.ssh"

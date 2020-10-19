@@ -1,0 +1,5 @@
+.env
+ssh/*
+ssh_dir/*
+wiki/*
+docker-compose.yml
