@@ -1,4 +1,4 @@
-# Hotmaps wiki
+# Gollum MD wiki
 
 This image offers an easy way to deploy any git-based wiki repository.
 Just tell where your wiki is located and it will deploy a web application that allows to edit/add/remove pages. A basic authentication system is preinstalled and can be configured to only allow certain users to make changes to the wiki content.
