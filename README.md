@@ -8,7 +8,7 @@ This wiki uses [gollum](https://github.com/gollum/gollum) and [omnigollum](https
 ## Build
 
 ``` Dockerfile
-docker build -t hotmaps/wiki .
+docker build -t gollum-mdwiki .
 ```
 
 ## Run
